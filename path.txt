@@ -1,0 +1,3 @@
+this is a example file
+local:D:\src_111
+server:D:\dst_111
